@@ -4,7 +4,9 @@
 This project delves into the impact of various regularization and weight initialization techniques on the performance of Convolutional Neural Networks (CNNs) in the domain of image classification. Leveraging the CIFAR-10 dataset, I aim to offer a comprehensive analysis of these methods and their implications on model efficacy and generalization.
 
 Included:
-- 
+- [Example CNN Notebook](https://github.com/samuelcampione/CNN_Techniques_for_Image_Classification_using_CIFAR10/blob/main/CNN_example.ipynb)
+- [Experiments using CNN Techniques Notebook](https://github.com/samuelcampione/CNN_Techniques_for_Image_Classification_using_CIFAR10/blob/main/CNN_technique_experiments.ipynb)
+- [Results of Experiments](https://github.com/samuelcampione/CNN_Techniques_for_Image_Classification_using_CIFAR10/blob/main/results.md)
 
 
 ### Dataset Overview and Preparation
