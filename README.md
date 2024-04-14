@@ -8,7 +8,7 @@ Included:
 - [Experiments using CNN Techniques Notebook](https://github.com/samuelcampione/CNN_Techniques_for_Image_Classification_using_CIFAR10/blob/main/CNN_technique_experiments.ipynb)
 - [Results of Experiments](https://github.com/samuelcampione/CNN_Techniques_for_Image_Classification_using_CIFAR10/blob/main/results.md)
 
-
+---
 ### Dataset Overview and Preparation
 - **CIFAR-10 Dataset**: Benchmark dataset for image classification challenges.
 - **Preprocessing Steps**: Includes pixel value normalization and dataset splitting into training and testing sets for evaluation.
