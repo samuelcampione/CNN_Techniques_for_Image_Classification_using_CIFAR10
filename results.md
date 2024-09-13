@@ -48,4 +48,4 @@ CyclicLR offers dynamic adjustments that could enhance model generalization as s
 
 For datasets with inherent noise or prone to overfitting (like complex image data), using dropout or L2 regularization would be beneficial. When using networks with ReLU activations, Kaiming initialization is recommended to maintain the non-linearities across layers properly. For tasks requiring very precise fine-tuning, employing a learning rate scheduler like ExponentialLR or CyclicLR can be advantageous. Kaiming initialization would be preferable if computational resources were scarse (need to converge quickly) and the slightly lower accuracy was not okay. 
 
-My final recommednation would be to carefully take into account the various hyperparameter values for all methods used.
+My final recommendation would be to carefully take into account the various hyperparameter values for all methods used.
